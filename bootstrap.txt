@@ -1,0 +1,10 @@
+El sistema de cuadrícula Bootstrap tiene cuatro clases:
+
+XS (para teléfonos - pantallas de menos de 768px de ancho)
+SM (para tabletas - pantallas iguales o superiores a 768px de ancho)
+MD (para portátiles pequeños - pantallas iguales o superiores a 992px de ancho)
+LG (para portátiles y ordenadores de sobremesa - pantallas iguales o superiores a 1200px de ancho)
+Las clases anteriores se pueden combinar para crear diseños más dinámicos y flexibles.
+
+Propina: Cada clase se escala, por lo que si desea establecer los mismos anchos para xs y sm, solo necesita especificar xs.
+
