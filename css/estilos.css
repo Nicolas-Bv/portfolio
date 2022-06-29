@@ -289,8 +289,46 @@ a.btn.btn-rojo:hover{
     width: 100% !important;
 }
 
+#sobre-mi .img-cursos{
+    width: 100% !important;
+}
 
+#cursos h4{
+color: #E20000;
+}
 
+.img-fluid{
+    vertical-align: middle;
+}
+
+#cursos h5{
+    font-size: 12px;
+}
+
+#hobbies {
+    display: block;
+}
+
+#hobbies ul{
+    list-style-type: none;
+    padding: 0%;
+    font-size: 14px;
+    color: #282828;
+}
+
+#hobbies h2{
+   font-size: 16px;
+}
+
+.card-hobbie{
+    font-size: 100px;
+    color: white;
+}
+
+#hobbies .card{
+    background-color: #370a6d !important;
+}
+ 
 
 
 
