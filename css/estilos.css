@@ -23,6 +23,12 @@ body{
     background-repeat: no-repeat;
 }
 
+#confirmacion{
+    background-image: url(../images/Imagenes/fondo-contacto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 h1{
     color: #E20000;
 }
